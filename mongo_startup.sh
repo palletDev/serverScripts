@@ -1,4 +1,4 @@
-#! ////////bin/bash
+#! /bin/bash
 
 mongod
 python /home/austin/GitRepository/PythonCrawlers/averageGasPriceCrawler.py 
