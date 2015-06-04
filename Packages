@@ -1,1 +1,1 @@
-flask flask-login flask-pymongo mongo mongoengine
+Flask Flask-login Flask-pymongo Flask-OAuth mongo mongoengine 
