@@ -1,1 +1,1 @@
-Flask Flask-login Flask-pymongo Flask-OAuthlib mongo mongoengine jwt cryptography
+Flask Flask-login Flask-OAuthlib mongo mongoengine jwt cryptography requests
